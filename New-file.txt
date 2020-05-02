@@ -1,1 +1,1 @@
-THis is my new file which has to do a upload to a github
+THis is my new file which has to do a upload to a github. New users can change it.
